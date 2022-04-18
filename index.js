@@ -16,3 +16,13 @@ let number1 = 12;
 let number2 = 20;
 
 console.log(number1 + number2);
+
+/* Exercise 4 */
+
+let x = 12;
+
+/* Exercise 5 */
+
+let name =
+
+
