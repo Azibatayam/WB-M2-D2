@@ -23,6 +23,13 @@ let x = 12;
 
 /* Exercise 5 */
 
-let name =
+let name = "Tee"
+
+/* Exercise 6 */
+
+let store = 4;
+
+console.log (x - store);
+
 
 
