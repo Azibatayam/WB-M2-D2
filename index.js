@@ -23,7 +23,7 @@ let x = 12;
 
 /* Exercise 5 */
 
-let name = "Tee"
+let name = "Tee";
 
 /* Exercise 6 */
 
@@ -31,5 +31,15 @@ let store = 4;
 
 console.log (x - store);
 
+/* Exercise 7 */
+
+let name1 = "john";
+let name2 = "John";
+
+
+console.log (name1 === name2);
+
+
+console.log (name1.toLowerCase() === name2.toLowerCase());
 
 
