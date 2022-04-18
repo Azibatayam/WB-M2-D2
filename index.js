@@ -10,3 +10,9 @@ Null - This container or variable given with the value null. This can be is done
 
 An object is a collection of key value peers, it has a key followed by a colon and then a value. 
 
+/* Exercise 3 */
+
+let number1 = 12;
+let number2 = 20;
+
+console.log(number1 + number2);
